@@ -6,6 +6,6 @@ public class swapping {
 
 	@Test
 	public void swapping() {
-		System.out.println("swapping is done done");
+		System.out.println("swapping is done sucessfully");
 	}
 }
